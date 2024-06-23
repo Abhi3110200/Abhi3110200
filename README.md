@@ -19,10 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi3110200&show_icons=true&locale=en" alt="abhi3110200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi3110200&" alt="abhi3110200" /></p>
-
-
-
 
 
 <!--
