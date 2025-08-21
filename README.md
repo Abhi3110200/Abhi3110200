@@ -17,6 +17,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi3110200&show_icons=true&locale=en&layout=compact" alt="abhi3110200" /></p>
 
+## GitHub Stats
+
+🌟 **Public Repos:** 55
+👥 **Followers:** 1
+➡️ **Following:** 2
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi3110200&show_icons=true&theme=radical)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi3110200&show_icons=true&theme=radical)
 
