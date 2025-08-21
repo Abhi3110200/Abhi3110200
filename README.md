@@ -26,12 +26,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi3110200&show_icons=true&theme=radical)
 
-## Recent Activity
-
-- Pushed updates to the [policy_data](https://github.com/Abhi3110200/policy_data) repository.
-- Opened issues on various projects to enhance collaboration.
-- Collaborated on new features and enhancements across multiple repositories.
-
 <!--
 **Abhi3110200/Abhi3110200** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
