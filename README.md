@@ -17,13 +17,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi3110200&show_icons=true&locale=en&layout=compact" alt="abhi3110200" /></p>
 
-## GitHub Stats
+## Recent Activity
 
-🌟 **Public Repos:** 55
-👥 **Followers:** 1
-➡️ **Following:** 2
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi3110200&show_icons=true&theme=radical)
+- Pushed updates to the [policy_data](https://github.com/Abhi3110200/policy_data) repository.
+- Opened issues on various projects to enhance collaboration.
+- Collaborated on new features and enhancements across multiple repositories.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhi3110200&show_icons=true&theme=radical)
